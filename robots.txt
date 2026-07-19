@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://aga-uhake.space/sitemap.xml
+Sitemap: https://aga-uhake-web-marketing.mapo-room-guide.xyz/sitemap.xml
